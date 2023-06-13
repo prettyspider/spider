@@ -1,0 +1,9 @@
+房子名 title  varchar
+价格 price int
+图片img varchar
+地址 address varchar
+面积area int 单位是平方米
+方位direction varchar
+楼高 buildingheight int 单位是楼
+优势advantage varchar
+住宿条件 housecondition varchar
